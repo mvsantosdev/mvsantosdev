@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me: 
+mvsantos at protonmail.com
+https://www.linkedin.com/in/mvsantosdev
+
 <!--
 **mvsantosdev/mvsantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
