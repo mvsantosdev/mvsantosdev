@@ -2,6 +2,11 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/mvsantosdev
 
+- Lectures:
+  - Lectures on scientific computing with Python: https://github.com/mvsantosdev/scientific-python-lectures
+  - Bayesian methods with Python: https://github.com/mvsantosdev/bayesian-methods-with-python
+  - Machine Learning, an introduction for Physicists: https://github.com/mvsantosdev/machine-learning-an-introduction-for-physics
+
 <!--
 **mvsantosdev/mvsantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
