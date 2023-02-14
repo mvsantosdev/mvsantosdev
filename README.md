@@ -22,6 +22,9 @@ Welcome to my github repositories. Here you can find my data science portifolio,
 </div>
 
   <p></p>
+ 
+- Data Science Portifolio:
+  - MyAnimeList recommendation system: https://github.com/mvsantosdev/anime_recommend
 
 - Lecture notes:
   - Lectures on scientific computing with Python: https://github.com/mvsantosdev/scientific-python-lectures
